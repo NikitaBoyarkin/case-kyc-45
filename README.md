@@ -6,6 +6,14 @@
 
 Age-sliced A/B HTE: 35–44 +11.0pp and 18–24 +5.3pp, but 45+ +1.4pp (ns). Referral (trust) converts 45+ best — friction is trust, not UX.
 
+## Navigation
+
+- 📖 [Full case study on the portfolio site](https://nikitaboyarkin.github.io/en/projects/volta/kyc-45/)
+- 🏦 [Parent project: volta-banking](https://github.com/NikitaBoyarkin/volta-banking)
+- 🧪 Related cases: [funnel](https://github.com/NikitaBoyarkin/case-funnel) · [referral](https://github.com/NikitaBoyarkin/case-referral)
+
+**On this page:** [Key results](#key-results) · [Situation](#situation) · [Task](#task) · [Actions](#actions) · [Result](#result) · [Recommendations](#recommendations) · [Charts](#charts) · [Dataset](#dataset) · [Quick start](#quick-start)
+
 ## Key results
 
 - 35–44 +11.0pp (p<0.001); 45+ +1.4pp (ns)
